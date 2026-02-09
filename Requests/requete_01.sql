@@ -1,2 +1,2 @@
-SELECT NumPotion, LibPotion, Formule, ConstituantPrincipal
+SELECT *
 FROM potion;
